@@ -1,5 +1,5 @@
 # Crud Person - Back-End
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jglasner/crud-person/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jglasner/crud-person/blob/master/LICENSE) 
 
 # Sobre o projeto
 
