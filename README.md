@@ -17,10 +17,6 @@ A aplicação consiste em realizar o cadastro de pessoas para criar e gerenciar 
 - Validations
 - Padrão DTO
 - Maven
-
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Github Pages
 - Banco de dados: PostgreSql
 
 # Como executar o projeto
